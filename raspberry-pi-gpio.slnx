@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/flash-led/flash-led.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
